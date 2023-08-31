@@ -1,7 +1,7 @@
 import random, copy
 
 def bubblesort (items):
-
+ n = items
 
 
 if __name__ == '__main__':
